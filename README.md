@@ -1,6 +1,6 @@
 # Hot Beans Web by Jay Fitzgerald
 
-Welcome to my repository for the new recruitment section of Hot Beans Web. This project was developed to attract prospective web developers by providing detailed information about the company, job roles, and an easy application process as asked by City College Plymouth to gain a qualifcation in Level 3 Foundation Diploma in Computing.
+Welcome to my repository for the new recruitment section of Hot Beans Web. This project was developed to attract prospective web developers by providing detailed information about the company, job roles, and an easy application process as asked by City College Plymouth to complete this assignment to pass a unit (Unit 15) to go towards a qualifcation in Level 3 Foundation Diploma in Computing.
 
 ## Table of Contents
 
