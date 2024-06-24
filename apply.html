@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot Beans Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li class="logo">
+                    <img src="img/coffee.png" alt="Hot Beans Web Logo">
+                    <span>Hot Beans Web</span>
+                </li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="apply.html">Apply</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="apply-hero">
+            <h1>Join Our Team</h1>
+            <p>We're looking for passionate individuals to join us.</p>
+        </section>
+        <section class="application-form">
+            <form action="submit_application.php" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name
+                ="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone">
+
+                <label for="position">Position:</label>
+                <select id="position" name="position" required>
+                    <option value="developer">Developer</option>
+                    <option value="designer">Designer</option>
+                    <option value="manager">Project Manager</option>
+                </select>
+
+                <label for="cover-letter">Cover Letter:</label>
+                <textarea id="cover-letter" name="cover-letter" rows="5" required></textarea>
+
+                <button type="submit" class="btn-primary">Apply Now</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 — Privacy — Terms</p>
+    </footer>
+</body>
+</html>

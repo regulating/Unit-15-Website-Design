@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: sans-serif; /* Using a generic sans-serif font */
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.nav {
+  list-style: none;
+  display: flex;
