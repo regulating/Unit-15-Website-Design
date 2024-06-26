@@ -67,7 +67,7 @@ Users can navigate through the website, view the team over at Hot Beans Web, che
 ![Home](screenshots/home.png)
 *Home Page for Hot Beans Web*
 
-![Meet The Team](screenshots/meettheteam.png)
+![Meet The Team](screenshots/meettheteamv2.png)
 *Meet The Team Page*
 
 ![Job Specifications](screenshots/jobspecs.png)
